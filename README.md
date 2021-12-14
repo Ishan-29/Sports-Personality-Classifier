@@ -1,4 +1,4 @@
-In this project we classify sports atheletes from different sports with the help of Convolutional Neural Network(CNN). We restrict the classification to only five players.
+In this project I have classify sports atheletes from different sports with the help of Convolutional Neural Network(CNN). We restrict the classification to only five players.
 
 1) Leonel Messi
 2) Sachin Tendulkar
